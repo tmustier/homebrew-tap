@@ -1,8 +1,8 @@
 class CodexTitle < Formula
   desc "Codex wrapper that updates terminal tab title while it runs"
   homepage "https://github.com/tmustier/codex-title"
-  url "https://github.com/tmustier/codex-title/archive/refs/tags/v0.1.27.tar.gz"
-  sha256 "b8a89490414bc0a679ee03afe92c74ad009ac6012ff6fb3af9d9541cfac3bb37"
+  url "https://github.com/tmustier/codex-title/archive/refs/tags/v0.1.28.tar.gz"
+  sha256 "35cbae32531c07d67dc617ef5f8758988c1acd0091e3cea10aafe06bdab53455"
   license "MIT"
 
   def install
