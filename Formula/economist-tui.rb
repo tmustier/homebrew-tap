@@ -1,8 +1,8 @@
 class EconomistTui < Formula
   desc "Terminal UI to browse and read The Economist"
   homepage "https://github.com/tmustier/economist-tui"
-  url "https://github.com/tmustier/economist-tui/archive/refs/tags/v0.3.2.tar.gz"
-  sha256 "69c0b7a8ec68a7b89f450bbcd10fc267ee274398e743eae3467c45438d3bb93f"
+  url "https://github.com/tmustier/economist-tui/archive/refs/tags/v0.3.3.tar.gz"
+  sha256 "605ac73298e8a1f9ee3dca631e5590f98244d5ae4b728c719f613caedac8edc9"
   license "MIT"
 
   depends_on "go" => :build
